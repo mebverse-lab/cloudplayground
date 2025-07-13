@@ -2,7 +2,7 @@
 
 ### 🧠 What is CloudPlayground?
 
-**CloudPlayground** — a summer (and beyond) project — is a real-world learning sandbox that serves both as a **school-year portfolio** and a **personal AI development lab**. Led by two teenagers and guided by their father, the project is a hands-on journey into:
+**CloudPlayground** — a summer (and beyond) project — is a real-world learning sandbox that serves both as a **school-year portfolio** and a **personal AI development lab**. Led by Matthias and Moses and guided by their dad Mebrahtu, the project is a hands-on journey into:
 
 - 🚀 **Cloud infrastructure** concepts (including virtualization and deployment)  
 - 🤖 **AI model** exploration and experimentation  
