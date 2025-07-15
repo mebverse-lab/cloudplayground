@@ -21,7 +21,7 @@
 - Learn project planning, time management, and team collaboration  
 - Prepare a year-end digital project presentation (Moses)  
 - Encourage creativity, curiosity, and a love for building
-- Have fun  
+- Enjoy and have fun!
 
 ---
 
